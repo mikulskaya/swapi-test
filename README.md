@@ -10,3 +10,5 @@ or
 ```
 $mvn test
 ```
+
+resource ```/planets/schema``` is missing, so test ```testGetPlanetsSchema``` deliberately made to fail
